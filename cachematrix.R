@@ -1,4 +1,6 @@
 ## Pair of functions that cache the inverse of a matrix
+# The two functions have to be used in tandem, i.e., first one needs to create the matrix using the 
+# makeCacheMatrix function and then use the function cacheSolve to retrieve the results.
 
 ## makeCacheMatrix function ##
 ## This function creates a special "matrix" object that can cache its inverse.
